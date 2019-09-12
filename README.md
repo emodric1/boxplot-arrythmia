@@ -1,2 +1,1 @@
-# boxplot-arrythmia
-Boxplot prikaz biomedicinskih osobina koristeći dataset Arrhythmia Data Set (UCI Machine Learning Repository) 
+# Projekat iz Biomedicinskih signala i sistema - Boxplot prikaz biomedicinskih osobina koristeći dataset Arrhythmia Data Set (UCI Machine Learning Repository) 
